@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Retrieval-Augmented Generation combines information retrieval with language generation. Relevant external knowledge is retrieved before the language model generates an answer.",
+    "domain": "Technology",
+    "topic": "Generative AI",
+    "subtopic": "RAG",
+    "role": "AI Engineer",
+    "interview_type": "Technical",
+    "difficulty": "medium",
+    "concept": "Retrieval-Augmented Generation",
+    "ideal_answer": "RAG is a technique where relevant information is retrieved from an external knowledge base and provided to an LLM as context before generating the response.",
+    "keywords": [
+      "RAG",
+      "retrieval",
+      "knowledge base",
+      "LLM",
+      "context"
+    ],
+    "source_type": "concept",
+    "source": "internal_knowledge_base"
+  },
+  {
+    "content": "The STAR method is a structured approach for answering behavioral interview questions using Situation, Task, Action, and Result.",
+    "domain": "General",
+    "topic": "Behavioral Interview",
+    "subtopic": "Answer Frameworks",
+    "role": null,
+    "interview_type": "Behavioral",
+    "difficulty": "easy",
+    "concept": "STAR Method",
+    "ideal_answer": "The STAR method structures an interview response into four parts: Situation, Task, Action, and Result.",
+    "keywords": [
+      "STAR",
+      "situation",
+      "task",
+      "action",
+      "result"
+    ],
+    "source_type": "framework",
+    "source": "internal_knowledge_base"
+  }
+]
